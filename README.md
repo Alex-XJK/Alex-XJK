@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 <h1> Hey there! I'm Alex XU.👋</h1>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Alex-XJK&count_private=true&show_icons=true&theme=cobalt" weight="48%" height="200px">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-XJK&theme=cobalt&langs_count=10&layout=compact" weight="48%" height="200px">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Alex-XJK&count_private=true&show_icons=true&theme=cobalt" weight="48%">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-XJK&theme=cobalt&langs_count=10&layout=compact" weight="48%">
 </p>
 <p align = "center">
   <img src = "https://github-profile-trophy.vercel.app/?username=Alex-XJK&theme=cobalt&rank=SSS,SS,S,AAA,AA,A">
