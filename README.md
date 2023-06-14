@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <img src = "https://github-profile-trophy.vercel.app/?username=Alex-XJK&theme=cobalt&rank=SSS,SS,S,AAA,AA,A">  
 
 Visit statistics from June 2023 onwards  
-<a href="https://www.revolvermaps.com/livestats/57w8h7d928p/"><img src="https://rf.revolvermaps.com/h/m/a/7/ffc000/128/40/57w8h7d928p.png" width="256" height="128" alt="Map" style="border:0;"></a>
+<a href="https://www.revolvermaps.com/livestats/57w8h7d928p/"><img src="https://rf.revolvermaps.com/h/m/a/7/ffc000/128/40/5o0dpi5ybfv.png" width="256" height="128" alt="Visitor Map" style="border:0;"></a>
 
