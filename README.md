@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-XJK&theme=cobalt&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5&hide=Sass,Slim,Vue">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-XJK&theme=cobalt&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=GAPP,Botanique-Android,RA-Shell_Scripts">  
 <img src="https://github-profile-trophy.vercel.app/?username=Alex-XJK&theme=cobalt&rank=SSS,SS,S,AAA,AA,A">
 
 <!--
